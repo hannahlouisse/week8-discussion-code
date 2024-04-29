@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "267618780016",
+    "project_id": "cmsc23-todo-app-hannahunite",
+    "storage_bucket": "cmsc23-todo-app-hannahunite.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267618780016:android:ae527e40f6e90d8f5545b5",
+        "android_client_info": {
+          "package_name": "com.example.week7_networking_discussion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZTEuPSW7REO-tIQiVArZyw1q3aNCvfx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
